@@ -26,7 +26,6 @@ Untuk informasi lebih lanjut mengenai kegiatan, workshop, dan proyek kami, silak
 
 * **Instagram:** [damingipb](https://instagram.com/damingipb)
 * **Email:** [datamining.ipb@gmail.com](mailto:datamining.ipb@gmail.com)
-* **Situs Web:** [Link jika ada]
 
 ---
 Data Mining @ IPB University | 2026
