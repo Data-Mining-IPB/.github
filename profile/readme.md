@@ -18,12 +18,15 @@ Hub resmi untuk pengembangan Machine Learning, Deep Learning, dan Deployment di 
 * **Library & Framework:** Scikit-Learn, TensorFlow, PyTorch, Pandas, NumPy.
 * **Visualisasi:** Matplotlib, Seaborn, Tableau.
 
-## Kolaborasi
-Kami mengundang mahasiswa IPB University untuk berkontribusi pada proyek open-source dan riset berbasis data.
+## Kontribusi
+Kami mengundang seluruh anggota komunitas untuk berkontribusi pada repositori kami, baik melalui pengembangan kode, dokumentasi, maupun penyediaan dataset penelitian.
 
-## Kontak
+## Hubungi Kami
+Untuk informasi lebih lanjut mengenai kegiatan, workshop, dan proyek kami, silakan kunjungi kanal resmi kami:
+
 * **Instagram:** [damingipb](https://instagram.com/damingipb)
-* **Lokasi:** Bogor, Indonesia
+* **Email:** [datamining.ipb@gmail.com](mailto:datamining.ipb@gmail.com)
+* **Situs Web:** [Link jika ada]
 
 ---
-Data Driven | Innovation | IPB University
+Data Mining @ IPB University | 2026
